@@ -1,0 +1,10 @@
+.header {
+  font-size: 1rem;
+  padding: 0.5rem 0.75rem;
+  background: #7F7CFF;
+}
+
+.header--large {
+  font-size: 2rem;
+  padding: 1rem 1.5rem;
+}
