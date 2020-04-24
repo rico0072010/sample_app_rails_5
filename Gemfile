@@ -11,6 +11,7 @@ gem 'carrierwave', '2.1.0'
 gem 'mini_magick', '4.10.1'
 gem 'will_paginate', '3.3.0'
 gem 'bootstrap-will_paginate', '1.0.0'
+gem 'hirb', '0.7.3'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
