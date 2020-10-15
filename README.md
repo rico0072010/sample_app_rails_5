@@ -11,6 +11,13 @@ All source code in the [Ruby on Rails Tutorial](https://www.railstutorial.org/)
 is available jointly under the MIT License and the Beerware License. See
 [LICENSE.md](LICENSE.md) for details.
 
+## Information
+
+Sample application is a part of Learn Enough series of tutorials to get the basics knowledge of web development.
+This App is like a twitter clone with all neccessary functionality, it has one to many association, many to many association, user and post functionality,
+actions restrictions, sessions, image uploading with fog, bootstrap styling, feed, email confirmation and password reset with sendgrid support in production and more. 
+Checkout the app on heroku [Sample App Rails 5](https://my-sample-app-rails5.herokuapp.com/)
+
 ## Getting started
 
 To get started with the app, clone the repo and then install the needed gems:
