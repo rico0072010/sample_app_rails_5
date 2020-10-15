@@ -11,7 +11,7 @@ All source code in the [Ruby on Rails Tutorial](https://www.railstutorial.org/)
 is available jointly under the MIT License and the Beerware License. See
 [LICENSE.md](LICENSE.md) for details.
 
-## Information
+## Description
 
 Sample application is a part of Learn Enough series of tutorials to get the basics knowledge of web development.
 This App is like a twitter clone with all neccessary functionality, it has one to many association, many to many association, user and post functionality,
